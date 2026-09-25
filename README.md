@@ -1,4 +1,4 @@
-# ryuzaki
+# ryuzaki - Universal data search engine
 
 An asynchronous HTTP search service that searches across multiple local data sources.
 
