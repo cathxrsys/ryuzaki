@@ -1,0 +1,64 @@
+{
+  "entities": {
+    "last_name": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "last_name"
+        }
+      ],
+      "normalizer": "none"
+    },
+    "first_name": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "first_name"
+        }
+      ],
+      "normalizer": "none"
+    },
+    "patronymic": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "patronymic"
+        }
+      ],
+      "normalizer": "none"
+    },
+    "address": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "address"
+        }
+      ],
+      "normalizer": "none"
+    },
+    "card_number": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "card_number"
+        }
+      ]
+    },
+    "last_ip": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "last_ip"
+        }
+      ]
+    },
+    "email": {
+      "mappings": [
+        {
+          "table": "users",
+          "column": "email"
+        }
+      ]
+    }
+  }
+}

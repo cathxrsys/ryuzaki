@@ -1,0 +1,7 @@
+{
+    "type" : "sqlite",
+    "metadata" : {
+        "filename" : "example.db",
+        "mappingFile" : "mapping.json"
+    }
+}
